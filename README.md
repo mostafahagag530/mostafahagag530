@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mostafahagag530
 - 👀 I’m interested in AI and data
-- 🌱 I’m currently freelancer learning ...
+- 🌱 I’m currently freelancer ,
 - 📫 How to reach me mohagag530@gmail.com ...
 
 <!---
